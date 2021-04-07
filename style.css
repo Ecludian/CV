@@ -1,0 +1,25 @@
+.bg {
+  margin: 0;
+  padding: 0;
+  opacity: 0.6;
+  background-size: cover;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+  border-top: 1px solid #ddd;
+}
+
+.bigbad {
+  font-size: 20px;
+}
+html {
+  scroll-behavior: smooth;
+}
